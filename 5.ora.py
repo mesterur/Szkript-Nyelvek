@@ -46,3 +46,4 @@ turtle.onkey(dobas, 'd')
 turtle.onkey(turtle.bye, 'Escape')
 turtle.listen()
 ablak.mainloop()
+

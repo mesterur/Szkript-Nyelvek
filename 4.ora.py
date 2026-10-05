@@ -3,6 +3,7 @@ from logging import exception
 def osszeadas(a, b):
     return (a + b) / s
 
+
 # Főprogram
 if __name__ == '__main__':
     x = 4
